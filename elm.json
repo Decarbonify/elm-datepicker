@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "CurrySoftware/elm-datepicker",
+    "name": "decarbonify/elm-datepicker",
     "summary": "A reusable date picker component",
     "license": "BSD-3-Clause",
     "version": "4.0.0",
